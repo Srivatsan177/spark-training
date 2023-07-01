@@ -1,0 +1,8 @@
+*.log
+*.txt
+*/__pycache__
+*parquet
+spark-warehouse
+*.json
+metastore_db
+env
